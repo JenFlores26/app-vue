@@ -26,7 +26,7 @@ export default {
 .container{
     margin: 0px 0px 0px 60px;
     padding: 0px 0px 0px 30px;
-    border: 1px solid red;
+    /*border: 1px solid red;*/
     height: 85%;
     width: 90%;
     display: flex;
@@ -60,7 +60,7 @@ export default {
     }
 
     .side-two{
-        border: 1px solid red;
+        /*border: 1px solid red;*/
         padding-left: 200px;
         img{
             height: 600px;
