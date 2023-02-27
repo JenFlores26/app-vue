@@ -52,7 +52,7 @@ body{
 }
 .section1{
   width: 100%;
-  height: 750px;
+  height: 790px;
   background-image: url('../src/assets/photos/JF.png');
   background-size: cover;
 
